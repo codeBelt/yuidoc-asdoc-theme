@@ -1,0 +1,10 @@
+{
+    "name": "YUI-Docs",
+    "version": "0.1.0",
+    "description": "This is the description.",
+    "url": "http://www.test.com",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-yuidoc": "*"
+    }
+}
